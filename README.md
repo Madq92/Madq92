@@ -18,9 +18,7 @@ You can click the Preview link to take a look at your changes.
 
 ## 🛠 中间件与工具
 
-- MySQL / PostgreSQL
-- Redis
-- Nginx
+- MySQL / PostgreSQL / Redis / Nginx
 - Prometheus / Grafana (监控)
 - Docker / Jenkins / GitHub Actions
 
