@@ -26,7 +26,7 @@ You can click the Preview link to take a look at your changes.
 
 ## 🔗 联系我
 
-- 💬 微信: `Ma_dequan`
-- 📧 邮箱：826305303@qq.com
-- 🌐 Blog: [我的Blog](https://blog.oldhorse.tech:1443/)
+- 💬 微信： `Ma_dequan`
+- 📧 邮箱： 826305303@qq.com
+- 🌐 Blog： [我的Blog](https://blog.oldhorse.tech:1443/)
 ---
